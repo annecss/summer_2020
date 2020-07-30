@@ -1,3 +1,7 @@
+---
+title: my experience in summer 2020 research
+layout: page
+---
 #Summer 2020 Reflections
 ##one thing I will take away from this experience
 I have learned about the digital methods we used, like topic modelling, and they are very cool. I now know how to use Jupyter Notebooks to run a wide range of these different forms of analyses on texts.

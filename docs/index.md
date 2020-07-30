@@ -1,5 +1,5 @@
 ---
-title: # My experience in summer 2020 research 
+title: My experience in summer 2020 research 
 layout: page 
 ---
 

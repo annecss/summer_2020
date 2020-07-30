@@ -1,1 +1,7 @@
 Summer 2020 Reflections
+##one thing I will take away from this experience
+> I have learned about the digital methods we used, like topic modelling, and they are very cool. I now know how to use Jupyter Notebooks to run a wide range of these different forms of analyses on texts.
+##one thing I am thinking about doing
+> I want to incorportae some of the methods we used into future resaerch, including potentially a thesis.
+##Links
+##https://mybinder.org/v2/gh/annecss/summer2020notebooks/master
